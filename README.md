@@ -31,6 +31,6 @@ Struktur Repo:
 <br>
 /output_1_RC.pdf
 <br>
-/poster.pdf
+/poster_1_RC.pdf
 <br>
 /readme.md
