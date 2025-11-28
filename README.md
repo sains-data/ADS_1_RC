@@ -10,11 +10,17 @@ Package R yang digunakan:
 3. readxl
 
 Deskripsi Dataset:
+<br>
 Data nilai mata kuliah ADS kelas RA, RB, dan RC.
 
 Struktur Repo:
+<br>
 /nilaiADS.xlsx
+<br>
 /codeR_1_RC.Rmd
+<br>
 /output_1_RC.pdf
+<br>
 /poster.png
+<br>
 /readme.md
